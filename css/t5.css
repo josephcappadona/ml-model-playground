@@ -1,0 +1,11 @@
+.t5-app {
+    width: 400px;
+}
+
+.t5-query-type-dropdown {
+    width: 250px;
+}
+
+.t5-result {
+    white-space: pre;
+}
